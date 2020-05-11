@@ -47,6 +47,9 @@
     width: 120px;
     padding: 10px 0;
 }
+.overview{
+    padding: 10px 0;
+}
 
 @media (min-width: 900px){
     
